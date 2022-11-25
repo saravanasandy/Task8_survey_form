@@ -1,0 +1,24 @@
+.fa{
+    color: rgb(255, 179, 0);
+}
+
+table{
+    width: 10px !important
+}
+#smallstar{
+    font-size: 6px !important
+    
+}
+#contentbox{
+    width: 900px;
+    height: 120px !important
+    
+}
+body{
+    margin: 20px !important
+}
+p{
+    font-size: 16px;
+    font-weight:bolder;
+    ;
+}
